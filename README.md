@@ -1,5 +1,5 @@
 # RPA-Challenge
-Robô feito com a ferramenta UiPath para o desafio do site http://www.rpachallenge.com/
+Robot made with UiPath (RPA Tool) to the Challenge avaliable in http://www.rpachallenge.com/
 
 Instructions
 
